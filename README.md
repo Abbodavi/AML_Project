@@ -1,4 +1,5 @@
 **Applied Machine Learning - Basic and Advanced**
+
 **MNIST Project**
 ---
 # University of Bologna - Italy
